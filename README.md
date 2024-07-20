@@ -14,7 +14,7 @@ namespace ConsoleThing
 {
     public class Logger
     {
-        ublic void Write(string message)
+        public void Write(string message)
         {
             Console.Write(message);
         }
@@ -32,7 +32,7 @@ namespace ConsoleThing
 {
     public class Logger
     {
-        ublic void Write(string message)
+        public void Write(string message)
         {
             Console.Write(message, Color.BlueViolet);
         }
