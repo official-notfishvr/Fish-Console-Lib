@@ -1,7 +1,3 @@
-Here's an improved version of your GitHub README:
-
----
-
 # Fish-Console-Lib
 
 Fish-Console-Lib is a library designed to enhance your console applications by providing advanced logging functionalities, including color support.
