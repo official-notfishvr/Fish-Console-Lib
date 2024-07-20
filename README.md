@@ -3,7 +3,7 @@ This is a Console Lib for your Console app!
 
 i did take code form "idk the name"
 
-how to use
+# how to use
 
 WithOut Color 
 ```c#
